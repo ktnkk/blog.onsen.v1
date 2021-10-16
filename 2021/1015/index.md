@@ -62,3 +62,10 @@ published: true
 それにしても、銭湯と高齢者の依存関係は興味深い。今日は特にそれを感じた。
 歳を取るごとに時間を持て余すことも多いだろうから銭湯や温泉に行きたくなるものなのかな。
 最近では若い人もサウナにハマっている人が多いけれど、銭湯もいいぞということは伝えていきたいな。
+
+[[i | せたがや銭湯ガイド]]
+| https://www.setagaya1010.tokyo/guide/youga_sakae-yu
+
+***
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2537.0677220739635!2d139.63433173832664!3d35.62774354260184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f4741039a113%3A0x8b547a3b99d40910!2z5qCE5rmv!5e0!3m2!1sja!2sjp!4v1634386077961!5m2!1sja!2sjp" width="700" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>

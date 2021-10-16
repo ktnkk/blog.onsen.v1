@@ -79,7 +79,7 @@ published: true
 ![銭湯の外観](./05.jpg)
 
 [[i | せたがや銭湯ガイド]]
-| https://www.setagaya1010.tokyo/guide/fuji-no-yu/
+| https://www.setagaya1010.tokyo/guide/fuji-no-yu
 
 ***
 

@@ -103,7 +103,7 @@ published: true
 スリッパ持っていけば良かった。
 
 [[i | 公式サイト]]
-| https://www.bunkayokusen1010.com/
+| https://www.bunkayokusen1010.com
 
 ***
 
