@@ -1,0 +1,7 @@
+{
+  "*.md": [
+    "prettier --write",
+    "lint:txt",
+    "lint:md"
+  ]
+}
