@@ -1,0 +1,29 @@
+{
+  "name": "blog.onsen",
+  "private": true,
+  "description": "A personal blog by @ktnkk",
+  "version": "1.0.0",
+  "author": "Keiten Kiki <ktnkk@pm.me>",
+  "homepage": "https://github.com/ktnkk/blog.onsen#readme",
+  "license": "©",
+  "bugs": {
+    "url": "https://github.com/ktnkk/blog/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github:ktnkk/blog.onsen.git"
+  },
+  "keywords": [
+    "blog",
+    "markdown"
+  ],
+  "main": "n/a",
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  },
+  "scripts": {
+    "fmt": "prettier --write \"**/*.{md}\"",
+    "lint:txt": "textlint \"**/*.md\"",
+    "lint:md": "markdownlint \"**/*.md\""
+  }
+}
