@@ -23,7 +23,10 @@
     "cz-conventional-changelog": "^3.3.0",
     "markdownlint": "^0.24.0",
     "markdownlint-cli": "^0.30.0",
-    "prettier": "^2.5.1"
+    "prettier": "^2.5.1",
+    "textlint": "^12.1.0",
+    "textlint-rule-no-dead-link": "^4.8.0",
+    "textlint-rule-preset-japanese": "^7.0.0"
   },
   "scripts": {
     "fmt": "prettier --write \"**/*.md\"",

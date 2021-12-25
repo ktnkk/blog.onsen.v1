@@ -1,0 +1,7 @@
+{
+  "filters": {},
+  "rules": {
+    "textlint-rule-preset-japanese": true,
+    "textlint-rule-no-dead-link": true
+  }
+}
