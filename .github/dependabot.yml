@@ -6,7 +6,7 @@ updates:
       timezone: "Asia/Tokyo"
       interval: "daily"
       time: "03:00"
-    target-branch: "dev"
+    target-branch: "main"
     allow:
       - dependency-type: "all"
     assignees:
@@ -28,7 +28,7 @@ updates:
       timezone: "Asia/Tokyo"
       interval: "daily"
       time: "03:00"
-    target-branch: "dev"
+    target-branch: "main"
     allow:
       - dependency-type: "all"
     assignees:
