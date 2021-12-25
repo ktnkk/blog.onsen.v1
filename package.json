@@ -19,6 +19,8 @@
   ],
   "main": "n/a",
   "devDependencies": {
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "^3.3.0",
     "prettier": "^2.5.1"
   },
   "scripts": {
