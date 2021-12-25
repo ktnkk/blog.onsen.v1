@@ -15,7 +15,8 @@ published: true
 
 ![外観](01.jpg)
 
-今日は東急田園都市線の用賀駅から徒歩 5 分のところにある [栄湯](https://www.setagaya1010.tokyo/guide/youga_sakae-yu) を訪問した。
+今日は東急田園都市線の用賀駅から徒歩 5 分のところに
+ある [栄湯](https://www.setagaya1010.tokyo/guide/youga_sakae-yu) を訪問した。
 外観はご覧の通りで、開店（16 時）から 20 分過ぎにも関わらず多くの自転車が止められていた。
 
 ![入口看板](02.jpg)
