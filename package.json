@@ -24,6 +24,8 @@
     "markdownlint": "^0.24.0",
     "markdownlint-cli": "^0.30.0",
     "prettier": "^2.5.1",
+    "semantic-release": "^18.0.1",
+    "semantic-release-cli": "^5.4.4",
     "textlint": "^12.1.0",
     "textlint-rule-no-dead-link": "^4.8.0",
     "textlint-rule-preset-japanese": "^7.0.0"
