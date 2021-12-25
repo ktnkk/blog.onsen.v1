@@ -24,7 +24,7 @@
     "prettier": "^2.5.1"
   },
   "scripts": {
-    "fmt": "prettier --write \"**/*.{md}\"",
+    "fmt": "prettier --write \"**/*.md\"",
     "lint:txt": "textlint \"**/*.md\"",
     "lint:md": "markdownlint \"**/*.md\""
   }
