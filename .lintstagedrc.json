@@ -1,4 +1,4 @@
 {
-  "*.md": ["lint:txt", "lint:md"],
-  "*": ["prettier --write \"**/*.{md,yml,json}\""]
+  "*.md": ["lint:txt", "lint:md", "prettier --write"],
+  "*.{yml,json}": ["prettier --write"]
 }
