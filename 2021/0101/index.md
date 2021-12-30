@@ -5,7 +5,7 @@ category: "o"
 description: ""
 emoji: "♨️"
 slug: "8472876"
-published: false
+published: true
 ---
 
 2019年8月27日から訪れた温泉の記録を付けている。
