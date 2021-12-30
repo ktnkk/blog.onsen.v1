@@ -99,7 +99,7 @@ published: true
 81. [千宝の湯｜出水温泉（熊本県出水市）](https://github.com/ktnkk/blog.onsen/blob/main/archives/2020/0812/index.md)
 82. [癒しの里｜南阿蘇温泉（熊本県南阿蘇村）](https://github.com/ktnkk/blog.onsen/blob/main/archives/2020/1104/index.md)
 83. [夢の湯｜阿蘇坊中温泉（熊本県阿蘇市）](https://github.com/ktnkk/blog.onsen/blob/main/archives/2020/1105/index.md)
-84. [束ノ間｜由布院温泉（熊本県由布市）](https://github.com/ktnkk/blog.onsen/blob/main/archives/2020/1109/index.md)
+84. [束ノ間｜由布院温泉（大分県由布市）](https://github.com/ktnkk/blog.onsen/blob/main/archives/2020/1109/index.md)
 85. [みすまるの湯｜くしき野白浜温泉（鹿児島県いちき串木野市）](https://github.com/ktnkk/blog.onsen/blob/main/archives/2020/1128/index.md)
 86. [丸山温泉｜市比野温泉（鹿児島県薩摩川内市）](https://github.com/ktnkk/blog.onsen/blob/main/archives/2020/1129_1/index.md)
 87. [上之湯公衆浴場｜市比野温泉（鹿児島県薩摩川内市）](https://github.com/ktnkk/blog.onsen/blob/main/archives/2020/1129_2/index.md)
